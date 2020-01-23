@@ -1,4 +1,4 @@
-## Welcome to My Tech Ops Pages
+## Welcome to My Tech Ops Page
 
 You can use the [editor on GitHub](https://github.com/pradeepn/pradeepn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
